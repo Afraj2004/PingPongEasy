@@ -1,6 +1,7 @@
 # PingPongEasy
 # Ping Pong Game  
 This is a simple implementation of the classic Ping Pong game using HTML, CSS, and JavaScript. The game features a table with a bouncing ball, a player paddle, and a computer-controlled paddle. The objective of the game is to hit the ball with the paddle and prevent it from reaching your side of the table while trying to score points by making the ball pass the opponent's paddle.
+You can enjoy it here [PingPongGame](https://afraj2004.github.io/PingPongEasy/).
 
 # How to Play
 Open the HTML file in a web browser that supports HTML5 canvas.
